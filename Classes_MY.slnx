@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="BankAccount.cs" />
+    <File Path="BankCustomer.cs" />
+  </Folder>
+  <Project Path="Classes_MY.csproj" />
+</Solution>

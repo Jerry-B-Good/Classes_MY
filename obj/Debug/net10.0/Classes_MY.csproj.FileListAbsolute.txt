@@ -1,0 +1,14 @@
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\bin\Debug\net10.0\Classes_MY.exe
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\bin\Debug\net10.0\Classes_MY.deps.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\bin\Debug\net10.0\Classes_MY.runtimeconfig.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\bin\Debug\net10.0\Classes_MY.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\bin\Debug\net10.0\Classes_MY.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.AssemblyInfoInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.AssemblyInfo.cs
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.csproj.CoreCompileInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\refint\Classes_MY.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.genruntimeconfig.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\ref\Classes_MY.dll

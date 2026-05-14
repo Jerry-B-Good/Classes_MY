@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|Solution Items{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|Solution Items{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|solutionrelative:BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|Solution Items{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\BankCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|Solution Items{4722679A-2B44-4C8F-82A0-46B9C24E6CD1}|solutionrelative:BankCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806463FD-146A-4338-9296-11A5549EDC56}|Classes_MY.csproj|d:\\users\\derrick auguar\\source\\repos\\jerry-b-good\\classes_my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806463FD-146A-4338-9296-11A5549EDC56}|Classes_MY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:18:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankCustomer.cs",
+              "DocumentMoniker": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\BankCustomer.cs",
+              "RelativeDocumentMoniker": "BankCustomer.cs",
+              "ToolTip": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\BankCustomer.cs",
+              "RelativeToolTip": "BankCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:16:03.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\Derrick Auguar\\source\\repos\\Jerry-B-Good\\Classes_MY\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:06:40.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
