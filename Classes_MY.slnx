@@ -2,6 +2,7 @@
   <Folder Name="/Solution Items/">
     <File Path="BankAccount.cs" />
     <File Path="BankCustomer.cs" />
+    <File Path="BankRobber.cs" />
   </Folder>
   <Project Path="Classes_MY.csproj" />
 </Solution>

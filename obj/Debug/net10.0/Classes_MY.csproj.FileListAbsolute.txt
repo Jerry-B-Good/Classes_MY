@@ -12,3 +12,4 @@ D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\r
 D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.pdb
 D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.genruntimeconfig.cache
 D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\ref\Classes_MY.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\Classes_MY\obj\Debug\net10.0\Classes_MY.sourcelink.json

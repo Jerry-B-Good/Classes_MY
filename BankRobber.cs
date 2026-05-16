@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Classes_M1
 {
-    public class BankCustomer
+    public class BankRobber
     {
-
+        
         private static int s_nextCustomerId;
 
         // add public fields for FirstName, LastName, and CustomerId
@@ -14,13 +14,7 @@ namespace Classes_M1
         public string LastName = "Worth";
         public readonly string CustomerId;
 
-        static BankCustomer()
-        {
-            Random random = new Random();
-            s_nextCustomerId = random.Next(10000000, 20000000);
-        }
-
-        public BankCustomer(string firstName, string lastName)
+        public BankRobber(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
